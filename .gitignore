@@ -4,12 +4,3 @@ Include/
 Lib/
 pyvenv.cfg
 __pycache__/
-*.pyc
-*.pyo
-
-# project files
-main.py
-document_processor.py
-rag_app.py
-rag_generator.py
-vector_database.py
